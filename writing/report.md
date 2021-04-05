@@ -35,7 +35,13 @@ They are similar, as they received a score of 16.
 #### Part 2
  1. How much similarity exists between each of the sequences to the others?
 
-#TODO
+A = A_chicken_Viet_Nam_10_2005_(H5N1)_segment_4
+B = A_China_GD01_2006_(H5N1)_segment_4
+C = A_avian_Hong_Kong_719_2007_(H5N1)_segment_4
+
+A -> B: 95.2%
+B -> C: 97.5%
+A -> C: 96.0%
 
 
  2. Based on your results so far (which are too few to provide a comprehensive study), do you believe there is evidence that human adaptation is occurring in H5N1 viruses that might merit concern about human-to-human transmission in the near future?
@@ -44,9 +50,14 @@ They are similar, as they received a score of 16.
 #TODO
 
  3. Statistics: What were the numbers of Lengths, Similarities, Gaps and Scores for each of your alignment tasks?
++-
+ ![Statistics](images/sequences.png)
 
+ (a,b) Length: 1776 Similarities: 1690/1776 (95.2%) Gaps: 45/1776 (2.5%) Score: 8286.0
 
-#TODO
+ (b,c) Length: 1776 Similarities: 1731/1776 (97.5%) Gap: 25/1776 (1.4%) Score: 8575.0
+
+ (a,c) Length: 1751 Similarities: 1681/1751 (96.0%) Gap: 20/1751 (1.1%) Score: 8205.0
 
 
 
