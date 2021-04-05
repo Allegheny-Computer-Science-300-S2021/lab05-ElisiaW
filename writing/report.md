@@ -46,8 +46,7 @@ A -> C: 96.0%
 
  2. Based on your results so far (which are too few to provide a comprehensive study), do you believe there is evidence that human adaptation is occurring in H5N1 viruses that might merit concern about human-to-human transmission in the near future?
 
-
-#TODO
+Yes, based on my results so far, I believe there is evidence that adaptation is occurring, which might lead to concern of human-to-human transmission. Based on results, it is evident that as the years continue, the sequences have become more and more similar, indicating that adaptation may be occurring. 
 
  3. Statistics: What were the numbers of Lengths, Similarities, Gaps and Scores for each of your alignment tasks?
 +-
