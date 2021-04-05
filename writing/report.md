@@ -19,10 +19,14 @@ They are similar, as they received a score of 16.
 
  4. What proof do you have to suggest such a claim?
 
-The purpose of this algorithm is to find all possible alignments with the highest score (after a score is assigned to every possible alignment). After displaying alignments: ```ATTT--C-ACAGTATTCACTGAG-
-||||  | ||| | |||||  ||
-ATTTGGCTACA-T-TTCAC--AGT
-``` the score of 16 was outputted, considering each sequences had 20 characters each.
+  The purpose of this algorithm is to find all possible alignments with the highest score (after a score is assigned to every possible alignment). After displaying alignments:
+
+  ```
+  ATTT--C-ACAGTATTCACTGAG-
+  ||||  | ||| | |||||  ||
+  ATTTGGCTACA-T-TTCAC--AGT
+  ```
+  the score of 16 was outputted, considering each sequences had 20 characters each.
 
 
 
