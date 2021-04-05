@@ -1,5 +1,5 @@
-#### Name: Add Your Name Here
-#### Date: 29 March 2021
+#### Name: Elisia Wright
+#### Date: 4 April 2021
 #### What this is: Questions in blue from the assignment sheet.
 
 #### Part 1.
@@ -7,22 +7,23 @@
 
  1. Which software did you use to conduct your analysis?
 
-#TODO
+I used the BioPython code from class.
 
  2. How similar were the two sequences (`s1.fasta` and `s2.fasta`) which you applied an alignment program?
 
- #TODO
-
+They are similar, as they received a score of 16.
 
  3. Are the two sequences closely related to each other, in your opinion?
 
- #TODO
-
+ Yes, I do believe that they are closely related to each other.
 
  4. What proof do you have to suggest such a claim?
 
+The purpose of this algorithm is to find all possible alignments with the highest score (after a score is assigned to every possible alignment). After displaying alignments: ```ATTT--C-ACAGTATTCACTGAG-
+||||  | ||| | |||||  ||
+ATTTGGCTACA-T-TTCAC--AGT
+``` the score of 16 was outputted, considering each sequences had 20 characters each.
 
- #TODO
 
 
 
